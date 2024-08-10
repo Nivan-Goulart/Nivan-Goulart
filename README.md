@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nivan Goulart</h1>
+<h1 style="text-align: left;">Hi 👋, I'm Nivan Goulart</h1>
 <h3 align="center">Desenvolvedor backend em formação, apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de aprendizado.</h3>
 
 <h3 align="left">Contato</h3>
